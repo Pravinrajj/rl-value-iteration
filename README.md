@@ -81,7 +81,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Pravinrajj/rl-value-iteration/assets/117917674/de614be2-70d5-4db4-8169-37fda8bbb250)
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given MDP using the value iteration algorithm.
